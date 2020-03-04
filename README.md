@@ -1,6 +1,6 @@
 # Tailwind CSS Color Properties
 
-A Tailwind CS plugin that exports theme colors as css custom properties.
+A Tailwind CSS plugin that exports theme colors as css custom properties.
 
 ## Installing
 

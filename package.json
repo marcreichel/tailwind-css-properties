@@ -1,7 +1,7 @@
 {
   "name": "tailwindcss-css-properties",
   "version": "1.0.0",
-  "description": "A Tailwind CS plugin that exports theme colors as css custom properties.",
+  "description": "A Tailwind CSS plugin that exports theme colors as css custom properties.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
