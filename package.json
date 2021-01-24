@@ -1,6 +1,6 @@
 {
   "name": "tailwindcss-css-properties",
-  "version": "1.4.0",
+  "version": "1.5.0",
   "description": "A Tailwind CSS plugin that exports theme colors as css custom properties.",
   "main": "index.js",
   "scripts": {
@@ -22,5 +22,11 @@
     "url": "https://github.com/marcreichel/tailwindcss-css-properties/issues"
   },
   "homepage": "https://github.com/marcreichel/tailwindcss-css-properties#readme",
-  "dependencies": {}
+  "dependencies": {},
+  "files": [
+    "LICENSE",
+    "README.md",
+    "index.js",
+    "package.json"
+  ]
 }
