@@ -4,11 +4,11 @@ module.exports = function({ addBase, theme }) {
     for (let color in colors) {
         if (colors.hasOwnProperty(color)) {
             if (typeof colors[color] === 'string') {
-                cssProperties[`--${color}`] = colors[color];
+                cssProperties[`--color-${color}`] = colors[color];
             } else if (typeof colors[color] === 'object') {
                 for (let shade in colors[color]) {
                     if (colors[color].hasOwnProperty(shade)) {
-                        cssProperties[`--${color}-${shade}`] = colors[color][shade];
+                        cssProperties[`--color-${color}-${shade}`] = colors[color][shade];
                     }
                 }
             }
