@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/marcreichel/tailwindcss-css-properties.git"
+    "url": "git+https://github.com/marcreichel/tailwind-css-properties.git"
   },
   "keywords": [
     "tailwind",
@@ -19,9 +19,9 @@
   "author": "Marc Reichel",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/marcreichel/tailwindcss-css-properties/issues"
+    "url": "https://github.com/marcreichel/tailwind-css-properties/issues"
   },
-  "homepage": "https://github.com/marcreichel/tailwindcss-css-properties#readme",
+  "homepage": "https://github.com/marcreichel/tailwind-css-properties#readme",
   "dependencies": {},
   "files": [
     "LICENSE",
