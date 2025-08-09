@@ -1,3 +1,5 @@
+> This repository is archived, because it is not needed anymore in TailwindCSS v4+ (https://tailwindcss.com/docs/colors#referencing-in-css).
+
 <h1 align="center">
     Tailwind CSS Color Properties
 </h1>
